@@ -1,10 +1,12 @@
 {
   "manifest_version": 2,
   "name": "LeParisien",
-  "version": "1.0",
+  "version": "1.1.1",
   "description": "Permet d'enlever le flou et PopIn du site web",
   "icons": {
-    "48": "images/logo.png"
+    "48": "images/logo-48.png",
+    "64": "images/logo-64.png",
+    "128": "images/logo-128.png"
   },
   "content_scripts": [
     {
