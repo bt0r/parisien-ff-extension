@@ -1,0 +1,19 @@
+{
+  "name": "parisien-ff-extension",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bt0r/parisien-ff-extension.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bt0r/parisien-ff-extension/issues"
+  },
+  "homepage": "https://github.com/bt0r/parisien-ff-extension#readme"
+}
